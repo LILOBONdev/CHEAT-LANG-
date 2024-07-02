@@ -1,4 +1,4 @@
-![Название изображения](https://cdn.discordapp.com/attachments/1172143899284885535/1257269963279040583/CheatLangTo.png?ex=6683cb66&is=668279e6&hm=702303628e6e9f3ac2cda4f3a3cdb36a5644a8cac0f5deef208c1f39a0b08a7d&)
+![Название изображения](https://cdn.discordapp.com/attachments/1172143899284885535/1257680659607064616/BannrTo.png?ex=668549e3&is=6683f863&hm=3c6d77ac8c2ba38e00d38ce7cbbe11e1286e4f4a8c8f4a3a393151a93b4b0266&)
 # UPDATE V.1 - CHEAT LANG
 * Шаблонный движок версии 1, добавлена базовая математика, базовый функционал и т.п, читать в документации в разделе "БАЗА"
 * loadstring(game:HttpGet('https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/MainInCode.lua'))()
