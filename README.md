@@ -1,7 +1,8 @@
 ![Название изображения](https://cdn.discordapp.com/attachments/1257964986408374346/1258100694913646692/2el1_s.png?ex=6686d114&is=66857f94&hm=ad6f5fe15cc0195f47d70295675917196983cd4c329020d66ce31d036656674a&)
 # UPDATE V.1.05 - CHEAT LANG (ЧИТ ТУТ)
 * Шаблонный движок версии 1, добавлена базовая математика, базовый функционал и т.п, читать в документации в разделе "БАЗА"
-* loadstring(game:HttpGet('https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/MainInCode.lua'))()
+* loadstring(game:HttpGet('[https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/MainInCode.lua](https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/Versions/V.1.07.lua)'))()
+* loadstring(game:HttpGet(''))()
 
 * 🟢 ~~Библиотека `aipath` повреждена в этой версии но ее код уже исправлен и будет залит на гит хаб через некоторое время.~~ - Пофикшено и работает стабильно
 
