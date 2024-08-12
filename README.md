@@ -88,6 +88,11 @@ __:spawn__ - Спавнит объект по типу part и т.д. Приме
 
 `/createprogress for 10 0.1 @getpart attachme Part` - Аргумент 6 - метод вызова метода `@getpart`, аргумент 7 - имя целевого объкта. (Только парт!)
 
+**Примеры использования run**
+* `/createprogress run @editattribute mehandler` - Аргумент 3 - метод изминения, аргумент 4 - Путь до вашего `Humanoid` в вашем персонаже.
+* `/createprogress run @editattribute memodelhandler` - Аргумент 4 - ваша модель игрока, немного разное.
+* `/createprogress run @colission true` - Аргумент 3 - метод изменения колизии игрока, аргумент 4  - запуск. (Кстати, это ноуклип на cheatLang!)
+
 Вот список методов для цикла `for`:
 * `@printablemethod` - Имеет свойство отправки сообщения;
 * `@getpart` - Получает имя объекта из аргумента 7 и притягивает деталь до игрока.
