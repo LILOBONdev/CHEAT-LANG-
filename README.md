@@ -1,5 +1,5 @@
 ![C.H.BANNER](https://cdn.discordapp.com/attachments/1271329696377733186/1272694733822627920/CheatlangBannerTo.png?ex=66bbe8d6&is=66ba9756&hm=85fec716dfc348f8373c596e6013b64273791047ef1c8d8379a4fca3ae7e7e95&)
-# UPDATE V.1.05 - CHEAT LANG (ЧИТ ТУТ)
+# UPDATE V.1.09 - CHEAT LANG (ЧИТ ТУТ)
 * Шаблонный движок версии 1, добавлена базовая математика, базовый функционал и т.п, читать в документации в разделе "БАЗА"
 * loadstring(game:HttpGet('[https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/MainInCode.lua](https://raw.githubusercontent.com/LILOBONdev/CHEAT-LANG-/main/Versions/V.1.07.lua)'))()
 * loadstring(game:HttpGet(''))()
