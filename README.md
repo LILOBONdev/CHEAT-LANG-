@@ -49,7 +49,7 @@ __:spawn__ - Спавнит объект по типу part и т.д. Приме
 
 
 # CheatLang - страница 3 :clipboard: 
-**Импорт библиотек**/
+**Импорт библиотек**
 Движок постепенно прибовляет библиотеки, вот метод получения библиотеки с помощью команды `/import library`. Для начала вы импортируете библиотеку с помощью функции `import`, затем идет название библиотеки а после всех прописанных аргументов вы подключаете ее с помощью значения `true`. Но не исключено, что вы также можете отключить включенную библиотеку с помощью значения `false`. Пример кода:` /import library aipath true` >> кратковременная загрузка >> вы загрузили библиотеку, поздравляю!
 
 **Список акутальных библиотек CHEAT LANG:**
@@ -94,7 +94,7 @@ __:spawn__ - Спавнит объект по типу part и т.д. Приме
 
 
 # CheatLang - страница 4 :clipboard:
-**Создадим свой проект на CheatLang**/
+**Создадим свой проект на CheatLang**
 ```/createEmbed plr.player.gui MyCheat CreateFrame 0.3 0.3 0.3 0.3 sosi SetColor frame bg sosi #FFFFFF Dragble frame sosi CreateButton 0.15 0.15 0.1 0.1 sosison Button sosi SetPosition sosison 0.1 0 0.05 0 CreateButton 0.15 0.15 0.1 0.1 sosison2 Button2 sosi SetPosition sosison2 0.1 0 0.2 0 CreateButton 0.15 0.15 0.1 0.1 sosison3 Button3 sosi SetPosition sosison3 0.1 0 0.35 0 OnClick sosison print lololo```
 Это код, на который вы будете равняться. Функций пока мало, но вскоре их станет больше.
 
