@@ -1,4 +1,4 @@
-![C.H.BANNER](https://cdn.discordapp.com/attachments/1271329696377733186/1272716441669468220/Banner.png?ex=66cdc94d&is=66cc77cd&hm=cdae8fa60eed488600f798fdc68cad52fd9f14c3cc16901f94f1603e331f2a0c&)
+![C.H.BANNER](https://cdn.discordapp.com/attachments/1271329696377733186/1284231370259959929/CheatLangBannerNew.png?ex=66e5e12a&is=66e48faa&hm=84b86f62d4ca54892f4f7d298dfc96f1f34a32bdace9fb76b94f26346571c052&)
 # UPDATE V.1.11 - CHEAT LANG (ЧИТ ТУТ)
 * Добавлен функционал измнения среды, а именно изменения аттрибутов, изменения колизии игрока ;
 * Добавлены циклы в команду `/createprogress` ;
