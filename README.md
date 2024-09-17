@@ -87,7 +87,7 @@
 * `@getpart` - Получает имя объекта из аргумента 7 и притягивает деталь до игрока.
 
 
-# CheatLang - страница 4 :clipboard:
+# CheatLang - страница 2 :clipboard:
 **Создадим свой проект на CheatLang**
 ```/createEmbed plr.player.gui MyCheat CreateFrame 0.3 0.3 0.3 0.3 sosi SetColor frame bg sosi #FFFFFF Dragble frame sosi CreateButton 0.15 0.15 0.1 0.1 sosison Button sosi SetPosition sosison 0.1 0 0.05 0 CreateButton 0.15 0.15 0.1 0.1 sosison2 Button2 sosi SetPosition sosison2 0.1 0 0.2 0 CreateButton 0.15 0.15 0.1 0.1 sosison3 Button3 sosi SetPosition sosison3 0.1 0 0.35 0 OnClick sosison print lololo```
 Это код, на который вы будете равняться. Функций пока мало, но вскоре их станет больше.
