@@ -1,4 +1,4 @@
-![C.H.BANNER](https://cdn.discordapp.com/attachments/1271329696377733186/1284231370259959929/CheatLangBannerNew.png?ex=66e5e12a&is=66e48faa&hm=84b86f62d4ca54892f4f7d298dfc96f1f34a32bdace9fb76b94f26346571c052&)
+![C.H.BANNER](https://cdn.discordapp.com/attachments/1293617712702165044/1296180187079249996/wjsjssa.png?ex=6711595e&is=671007de&hm=3e44bac4e44b51b2da33113446f8e1dada73790d646a91814a9abb9555be10aa&)
 # UPDATE V.1.13 - CHEAT LANG (ЧИТ ТУТ)
 * Возможность создание многопоточности, а именно создавать окна (пока есть в коде но на практике не работает) ;
 * Новые методы создания объектов + облегченный синтаксис языка - Встречайте ScriptV2 ;
